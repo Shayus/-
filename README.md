@@ -20,3 +20,6 @@ exe生成文件较大，需要可以直接找我 geeekhao@foxmail.com
 之后直接点击main.exe即可执行。
 
 目前有的地方信息提取较为暴力，欢迎大佬指正！
+
+
+软件压缩文件发布在https://github.com/Shayus/HealthyCodeExtract/releases/tag/1.0
